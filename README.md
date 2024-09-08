@@ -23,7 +23,7 @@ Este projeto é um sistema bancário simples desenvolvido em Java, que permite g
 - OperacoesConta: Implementa as operações bancárias, permitindo que o usuário interaja com a conta (depositar, sacar, e verificar saldo).
 
 
-## Autores
+## Autor
 
 - [@orobsoncastilho](https://github.com/orobsoncastilho)
 
